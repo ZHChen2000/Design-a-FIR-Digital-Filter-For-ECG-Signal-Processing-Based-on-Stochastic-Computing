@@ -1,0 +1,7 @@
+build/
+*.vvp
+*.exe
+*.o
+*.obj
+.vivado_hls/
+*.log
